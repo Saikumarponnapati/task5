@@ -68,7 +68,7 @@ This project is for academic and educational use only.
 
 ## 🙋‍♀️ Author
 
-Prepared by: *\[Your Name]*
+Prepared by: *\Purna Sai Kumar Reddy Ponnapati*
 
 ---
 
